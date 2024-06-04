@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ezfo2jm8q-dotnet-basic-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ezfo2jm8q-dotnet-basic
